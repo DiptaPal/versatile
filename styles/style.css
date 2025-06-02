@@ -678,6 +678,12 @@ hr {
         width: 100%;
         padding: 20px;
     }
+    .bmi-left-title {
+        text-align: center;
+    }
+    .bmi-table {
+        width: 100%;
+    }
     .bmi-info-fields {
         grid-template-columns: repeat(1, 1fr);
     }
@@ -779,6 +785,12 @@ hr {
     .bmi-right {
         width: 100%;
         padding: 30px;
+    }
+    .bmi-left-title {
+        text-align: center;
+    }
+    .bmi-table {
+        width: 100%;
     }
 
     /* team section styles */
